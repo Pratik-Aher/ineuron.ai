@@ -1,2 +1,2 @@
 # ineuron.ai
-proejects done at ineuron.ai
+projects done at ineuron.ai
